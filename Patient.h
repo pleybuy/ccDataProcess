@@ -10,7 +10,7 @@
 using namespace std;
 class Patient {
 public:
-    std::string name;                //患者姓名
+    std::string name;           //患者姓名
     _liver_t liver;             //肝脏
     _spleen_t spleen;           //脾脏
     _erector_t erector;         //竖脊肌
